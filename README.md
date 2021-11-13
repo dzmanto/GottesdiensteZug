@@ -4,6 +4,8 @@
 
 
 
+
+
 <!DOCTYPE html>
 <html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark">
   <head>
@@ -96,14 +98,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>GottesdiensteZug/README.md at main · dzmanto/GottesdiensteZug · GitHub</title>
-    <meta name="description" content="Android app für reformierte Gottesdienste in Zug. Contribute to dzmanto/GottesdiensteZug development by creating an account on GitHub.">
+  <title>foehnix/README.md at master · dzmanto/foehnix · GitHub</title>
+    <meta name="description" content="Foehnix Paraglider Widget for Android. Contribute to dzmanto/foehnix development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/7550a7fa4db99fe5abfeb27b96b3c2ccfc1887be11dfdcf3b9c150a6d7ce630a/dzmanto/GottesdiensteZug" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="GottesdiensteZug/README.md at main · dzmanto/GottesdiensteZug" /><meta name="twitter:description" content="Android app für reformierte Gottesdienste in Zug. Contribute to dzmanto/GottesdiensteZug development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/7550a7fa4db99fe5abfeb27b96b3c2ccfc1887be11dfdcf3b9c150a6d7ce630a/dzmanto/GottesdiensteZug" /><meta property="og:image:alt" content="Android app für reformierte Gottesdienste in Zug. Contribute to dzmanto/GottesdiensteZug development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="GottesdiensteZug/README.md at main · dzmanto/GottesdiensteZug" /><meta property="og:url" content="https://github.com/dzmanto/GottesdiensteZug" /><meta property="og:description" content="Android app für reformierte Gottesdienste in Zug. Contribute to dzmanto/GottesdiensteZug development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/11f103852445923a26648d9766c8356268d5ed45b0d564269014868b782042bc/dzmanto/foehnix" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="foehnix/README.md at master · dzmanto/foehnix" /><meta name="twitter:description" content="Foehnix Paraglider Widget for Android. Contribute to dzmanto/foehnix development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/11f103852445923a26648d9766c8356268d5ed45b0d564269014868b782042bc/dzmanto/foehnix" /><meta property="og:image:alt" content="Foehnix Paraglider Widget for Android. Contribute to dzmanto/foehnix development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="foehnix/README.md at master · dzmanto/foehnix" /><meta property="og:url" content="https://github.com/dzmanto/foehnix" /><meta property="og:description" content="Foehnix Paraglider Widget for Android. Contribute to dzmanto/foehnix development by creating an account on GitHub." />
     
 
 
@@ -113,9 +115,9 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="75FE:11242:1C73FD0:1DD38C9:618FFB4E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="2e9788070d7143c55b73c5540bd01c621c6eed56e92bb55344ee1bc3b6fe2e29" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI3NUZFOjExMjQyOjFDNzNGRDA6MUREMzhDOTo2MThGRkI0RSIsInZpc2l0b3JfaWQiOiIyNzk5OTEzNTU1ODM4NjMwNzM0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiZnJhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="3c4fd8b391d3e1b5716c3c17f9351604f027648c52e0946f4492ac23352f8d94" data-pjax-transient="true"/>
+  <meta name="request-id" content="7493:7230:6C20EFD:7180772:618FFE0B" data-pjax-transient="true"/><meta name="html-safe-nonce" content="570c4b0b4d3e3dda68246f3a55516b01fcb7b937d18e8319a70cd160931b1605" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI3NDkzOjcyMzA6NkMyMEVGRDo3MTgwNzcyOjYxOEZGRTBCIiwidmlzaXRvcl9pZCI6IjQyMTQ3ODQ5OTEyNzQ0NjY4MjciLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="28dba4579bcb6031fa1939f7505e8f1d3e5986a503a616e7c99bbac4263fb02a" data-pjax-transient="true"/>
 
-    <meta name="hovercard-subject-tag" content="repository:427728062" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:39007576" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -162,13 +164,13 @@
   
 
     
-  <meta name="go-import" content="github.com/dzmanto/GottesdiensteZug git https://github.com/dzmanto/GottesdiensteZug.git">
+  <meta name="go-import" content="github.com/dzmanto/foehnix git https://github.com/dzmanto/foehnix.git">
 
-  <meta name="octolytics-dimension-user_id" content="11686451" /><meta name="octolytics-dimension-user_login" content="dzmanto" /><meta name="octolytics-dimension-repository_id" content="427728062" /><meta name="octolytics-dimension-repository_nwo" content="dzmanto/GottesdiensteZug" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="427728062" /><meta name="octolytics-dimension-repository_network_root_nwo" content="dzmanto/GottesdiensteZug" />
+  <meta name="octolytics-dimension-user_id" content="11686451" /><meta name="octolytics-dimension-user_login" content="dzmanto" /><meta name="octolytics-dimension-repository_id" content="39007576" /><meta name="octolytics-dimension-repository_nwo" content="dzmanto/foehnix" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="39007576" /><meta name="octolytics-dimension-repository_network_root_nwo" content="dzmanto/foehnix" />
 
 
 
-    <link rel="canonical" href="https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/dzmanto/foehnix/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -219,7 +221,7 @@
         <div class="d-flex flex-items-center">
               <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
                 class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="83dd7cd2729f2e9725900cd29c7efafc915f0bf38ef8f31cd2280ea56be63244"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="072dabc316ab8fe98885e1477f87610597191c8855ced0a659369efcfbcb8296"
               >
                 Sign&nbsp;up
               </a>
@@ -260,57 +262,57 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Features;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e943d4571337e54391eb742decb1101f77996af240502d0c8d4ec4c8c9dfef99" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Features;&quot;}" href="/features">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Features;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="444ae3cc4548b68850d3959cfaa4665d1e03521489de4eb3b6113623f91312d7" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Features;&quot;}" href="/features">
       Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Mobile;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7fb433840d4cae31d7c637a57b1cc0d2432bcf0f933438082e41dea2ec6a352a" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Mobile;&quot;}" href="/mobile">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Mobile;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e6a43da7636168cc81d3c2b58030383e56f7af7a1ee24e0018d5f1e09c13dce9" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Mobile;&quot;}" href="/mobile">
       Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Actions;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0d399a5529e9383b42443b214fb60b9ca891816c4a9fe84dc8ddcb5f6ae37ee5" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Actions;&quot;}" href="/features/actions">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Actions;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="57461d02b4ed75cf9db0974feb7ba7a7dc21fde383b39b6b7bf3e3820aec8d1f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Actions;&quot;}" href="/features/actions">
       Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Codespaces;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8fe475250b1b67efdf4c1e9d725a7392a26301b12b6f1178f5324b33bbadc367" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Codespaces;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="86e78f19809b10f741dca00f6104e8b623926d1fa90900fc26396f11cdec157e" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
       Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Packages;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bbe7508d08a9b6895f10ed14e03c0216a83acf0068b5a2b067792d2219d73a04" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Packages;&quot;}" href="/features/packages">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Packages;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="734ae3e5509edb05df0abac862a7542044e521e49ba9092aede4d9285b1f02f0" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Packages;&quot;}" href="/features/packages">
       Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Security;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e7013f4e195f38d9b1cb1633b85bd9d22f6f4f9f3faee711f65c541e456c8866" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Security;&quot;}" href="/features/security">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Security;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="829b3f6f54e8590f1cbe73e78a1d50c22957dcc5b690ba4e739f7047650102df" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Security;&quot;}" href="/features/security">
       Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Code review;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a22f20e10208b8dc3349d39e8f3460eeb2607234b3227fb5bd877abe0db4770d" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Code review;&quot;}" href="/features/code-review">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Code review;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e9451f4d129eb500482dbcde547e44ca556a73352df9139caf3c1925a6f40a5b" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Code review;&quot;}" href="/features/code-review">
       Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Issues;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5ee46e1e8b78aaa4930134583d60b8a63df89ddee949c885c7e952c9771d448c" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Issues;&quot;}" href="/features/issues">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Issues;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="04ce19d83ee0dd85953bb2f13626ce333f9bf8eb68ba5122983b1c689f9e6297" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Issues;&quot;}" href="/features/issues">
       Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Integrations;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="321b333f6e5ea261dd3fa58f4d04a954c2e797b80ff0ea5269bcf29c486a8885" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Integrations;&quot;}" href="/features/integrations">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Integrations;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a0571b9b5a1c33f0254cbd8cdb3eaa813974405c0b45bd331fbb7fd5bf0f1304" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Integrations;&quot;}" href="/features/integrations">
       Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:GitHub Sponsors;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="569b66625d760d975712a28948a8a7c326b67ba4242b2010d51704b9a1848448" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:GitHub Sponsors;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a8849fa5f5ff72825ca66de3db6559b525727948a56d691a7e3c1f5eb4bc43fb" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
       GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Customer stories;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c26baf85f01a0b204b280325a8bb23cc54a2121bb53052d5bb4abe5944c19e3f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Customer stories;&quot;}" href="/customer-stories">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Customer stories;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fdcc26a7c8be5711bd9eaafa0d78de50c897edcbfa9bacd59b5a2123019ea75a" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Customer stories;&quot;}" href="/customer-stories">
       Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
@@ -321,11 +323,11 @@
 
 
               <li class="mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Team;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8c60f5671edbe5ec71450b6b277b7e0fe2d55ab574560cf6066a4745d4ba7d9b" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Team;&quot;}" href="/team">Team</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Team;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d7303ef6e50811c94b8aa31f5fcb978af30a1b4cecc683ef80235599dd32e43c" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Team;&quot;}" href="/team">Team</a>
 </li>
 
               <li class="mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Enterprise;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dcd813dbecd8bcf93f5a3038711bdeac20b344cba02a49137d8f33ea461ea6ed" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Enterprise;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2dd263c07bd2b544518257f805b8e51c65902b585beeb9b464d5924216bac4ae" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
 </li>
 
 
@@ -338,61 +340,61 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Explore GitHub;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ffba652aaafb1b5c4cfa63e6e64d6cd74bd75f9f0f0f9b0b265794b2f90ec07a" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Explore GitHub;&quot;}" href="/explore">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Explore GitHub;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3a4e7635d8ab476876480d7d7448c67ce24cb21efa98b068fa1e0900c119a71a" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Explore GitHub;&quot;}" href="/explore">
       Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Learn and contribute</li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Topics;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6c834d1e1a2994a86cb0e5b2e7ac34cbc0adb82964b67b0f7e2bd4c8ffb4f3d2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Topics;&quot;}" href="/topics">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Topics;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f3806a5e732dbd3efba6a8adf152e182c974bfc9dd26644cb1c69ed9751f5603" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Topics;&quot;}" href="/topics">
       Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Collections;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d7cbfd6251761755c46f27c96f90248a6eef27a56062ad7bf0667f34af61632b" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Collections;&quot;}" href="/collections">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Collections;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="199891f4dbf031dbfdecb617f5cdab7012201d127f1a01eecbd83d8193f3a8f8" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Collections;&quot;}" href="/collections">
       Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Trending;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="450f3ded8b56975a2dbceaa3263bc012a80e7312c5280749eb45fe1eb12e6620" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Trending;&quot;}" href="/trending">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Trending;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8d13309304a40af8ecbbf66e493b1ec95fe14ca1d23bd88452ab6df530d99017" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Trending;&quot;}" href="/trending">
       Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Learning Lab;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a02a1b72220e8cd7cc0579e3595c3b80277626a3a146adcfe46bbb0e770b0b4f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Learning Lab;&quot;}" href="https://lab.github.com/">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Learning Lab;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f9f73dbee6e53bd13dea76947e926baa3bdd70cec841a6c4ad53b009e186d4b8" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Learning Lab;&quot;}" href="https://lab.github.com/">
       Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Open source guides;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f180c564077370088bf070de7bdcf328b95e81c67577e8371133c20c57bb7baf" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Open source guides;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3dcf2853f28213808cedc6112dc8480d01635aa973703897eb4b0590dc857d05" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
       Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Connect with others</li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:The ReadME Project;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c7690b5bb693e246a894eb6af04402fd2e77d55fa1c914d72eca259e96829dbc" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:The ReadME Project;&quot;}" href="/readme">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:The ReadME Project;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f56f3ae7d72847b101d0bd96922f452422cfc0eed358a14ba362937af70034fb" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:The ReadME Project;&quot;}" href="/readme">
       The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Events;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6d3f00b4873651807c46991b1d412876f806e9b91786c0166c6bc56fd9507773" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Events;&quot;}" href="/events">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Events;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d6eb21e0a12dac19a9b8c9a42b9f5c0fd35a2f033cb139bbc2d428349df81509" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Events;&quot;}" href="/events">
       Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Community forum;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e4e4a241cbaa9ec1740dd853749b1b1dc05feda8d9463dbb4c562cbaf488a529" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Community forum;&quot;}" href="https://github.community">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Community forum;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="afdd8031575a55084035b3f9eb80af8a829371b8f039a32a7e3405da59ed80aa" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Community forum;&quot;}" href="https://github.community">
       Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:GitHub Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="050885a706db76d7736050ccc8a5b3d336904f91c810a738276174583d449120" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:GitHub Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="835eeba86d359d5a328b44c7fd8d97c714e2016191cc65c4c5164e0089ef4636" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
       GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:GitHub Stars program;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="82448e6e559bb9b5e06ba4c14982381e48180928d8ec30bb5bc6d66560434b5c" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:GitHub Stars program;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c369dcf2576cefe56ba72745db4f5f474d0e27968134fd2d04a4b804891717ce" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
       GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
@@ -403,7 +405,7 @@
 
 
             <li class="mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Marketplace;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ff06c9e65df69c2bd4db2c406d4f3ea856b16312f79ac776f6ebd5e48cd359b0" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Marketplace;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5273f52521b129691bbea44d04732e88b0a2779507439bd4918d27ff9ab4a224" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
 </li>
 
 
@@ -416,22 +418,22 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1c2974dba68a14e563b7e1c2a2da4982a2dd10e3dd507ab9750e0bf7014fe565" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Plans;&quot;}" href="/pricing">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d9655b53b82451bcfc08f5485957283088e9f6a635e83be7d6525229ed13183c" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Plans;&quot;}" href="/pricing">
       Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Compare plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="241bc809511283f429ba7e4fdc7148e5d614ed14cb9e1b90ba6ecc8dcf43ba42" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Compare plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7c2bad7928013333a21fee2a45b5627bfa68c932e9dc7e10481730debe91ef91" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
       Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Contact Sales;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="86c3376ecfbc91fd3f50eb30f36d6da99d82f94c11ff7607bc9e08d6e64d7c3d" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Contact Sales;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e11af7142829a5539650cdeedc9dcb1ad5861a0950f18b2c9ebeab3a73d1c8f2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
       Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
               <li class="edge-item-fix">
-    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d941ddfff72f2d6936c4dd9fb0d7829bc1887f7132549039e3667f8e5914aed7" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/GottesdiensteZug/blob/main/README.md;ref_cta:Education;&quot;}" href="https://education.github.com">
+    <a class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1891136a450c0be2c7e980e8c1d6f72d871b1374fc6313b3cc2c01cdaddd09cc" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/dzmanto/foehnix/blob/master/README.md;ref_cta:Education;&quot;}" href="https://education.github.com">
       Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">&rarr;</span>
 </a>  </li>
 
@@ -452,7 +454,7 @@
 <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="427728062" data-scoped-search-url="/dzmanto/GottesdiensteZug/search" data-owner-scoped-search-url="/users/dzmanto/search" data-unscoped-search-url="/search" action="/dzmanto/GottesdiensteZug/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="39007576" data-scoped-search-url="/dzmanto/foehnix/search" data-owner-scoped-search-url="/users/dzmanto/search" data-unscoped-search-url="/search" action="/dzmanto/foehnix/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -473,7 +475,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="FW6uPXENN7/whkT6FLKQHaXmBXlWf8E8zVN8iYX/a3X2o7GeBXmDiv7AkLFkMni9A79mHx2eBNKALL0A+zLcJg==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="acHeoA125FzimmBcJY8vfaNxS8HeY57MtybM22lw4mUNDBYklNNIzQqS6cwOZNpshOVg0rVnk0qBPWQ4wmylgw==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -653,18 +655,18 @@
           </div>
 
         <div class="position-relative mr-3 mb-4 mb-lg-0 d-inline-block">
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdzmanto%2FGottesdiensteZug%2Fblob%2Fmain%2FREADME.md"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdzmanto%2Ffoehnix%2Fblob%2Fmaster%2FREADME.md"
             class="HeaderMenu-link flex-shrink-0 no-underline"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5529dc0f68d07d3444fb535ef815b592690d8fd31394d20fd1c9814aea205b30"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c676b87d621608d09e6591434f07bb45efe91a2f0f3672845d25325f9fc2ae6c"
             data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
             Sign in
           </a>
         </div>
 
-          <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=dzmanto%2FGottesdiensteZug"
+          <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=dzmanto%2Ffoehnix"
             class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-default rounded px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5529dc0f68d07d3444fb535ef815b592690d8fd31394d20fd1c9814aea205b30"
-            data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="10ba5d58eb3a628c3f6bf1550991e24179d81372b1ba53d4066e57fa2b0a9bff" data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c676b87d621608d09e6591434f07bb45efe91a2f0f3672845d25325f9fc2ae6c"
+            data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1b37e9c4640b172f9af0fc9b618b732f1f77d009dbcfcf09967bc54dc2dc328a" data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
           >
             Sign up
           </a>
@@ -741,7 +743,7 @@
   </span>
   <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" href="/dzmanto/GottesdiensteZug">GottesdiensteZug</a>
+    <a data-pjax="#js-repo-pjax-container" href="/dzmanto/foehnix">foehnix</a>
   </strong>
 
   <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -752,7 +754,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-      <a href="/login?return_to=%2Fdzmanto%2FGottesdiensteZug" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bf532a7b6bbad3bf60938e2355299582c691cb16bcaf391723db76bda99c65b1" aria-label="You must be signed in to change notification settings" role="button" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">
+      <a href="/login?return_to=%2Fdzmanto%2Ffoehnix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5d25ebca89efa0168f6a6e2ea60d0cb7909d7db675a2af413256ee87aa093997" aria-label="You must be signed in to change notification settings" role="button" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>
@@ -767,7 +769,7 @@
 
     <li>
           <div >
-      <a href="/login?return_to=%2Fdzmanto%2FGottesdiensteZug" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:427728062,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="64ff6293ddb1b6fe1a58c689d279792a6ba7dfb54907b646652c2f6183234cc3" aria-label="You must be signed in to star a repository" role="button" data-view-component="true" class="tooltipped tooltipped-s btn-with-count btn-sm btn">
+      <a href="/login?return_to=%2Fdzmanto%2Ffoehnix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:39007576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dfe8da67e7b34814beca7c0bd18fe2a4f5366663204f658a73e705e6f01fe58d" aria-label="You must be signed in to star a repository" role="button" data-view-component="true" class="tooltipped tooltipped-s btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
@@ -779,19 +781,19 @@
 
 </a>      <a
         class="social-count js-social-count"
-        href="/dzmanto/GottesdiensteZug/stargazers"
-        aria-label="0 users starred this repository"
+        href="/dzmanto/foehnix/stargazers"
+        aria-label="3 users starred this repository"
         data-singular-suffix="user starred this repository"
         data-plural-suffix="users starred this repository"
       >
-        0
+        3
       </a>
   </div>
 
     </li>
 
     <li>
-          <a href="/login?return_to=%2Fdzmanto%2FGottesdiensteZug" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:427728062,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9217b580d401a635bd4eb58c79928ad0782c1f77c4644b570e0cc8dad9819417" aria-label="You must be signed in to fork a repository" role="button" data-view-component="true" class="tooltipped tooltipped-s btn-with-count btn-sm btn">
+          <a href="/login?return_to=%2Fdzmanto%2Ffoehnix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:39007576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7bb563fed170d0ac0a34d210b3aaaca753ab0ae79df0d367ee329fff84e93afb" aria-label="You must be signed in to fork a repository" role="button" data-view-component="true" class="tooltipped tooltipped-s btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -802,11 +804,11 @@
 
 </a>
   <a
-    href="/dzmanto/GottesdiensteZug/network/members"
+    href="/dzmanto/foehnix/network/members"
     class="social-count"
-    aria-label="0 users forked this repository"
+    aria-label="1 user forked this repository"
   >
-    0
+    1
   </a>
 
     </li>
@@ -829,7 +831,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/dzmanto/GottesdiensteZug" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /dzmanto/GottesdiensteZug" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" data-pjax="#repo-content-pjax-container" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/dzmanto/foehnix" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /dzmanto/foehnix" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" data-pjax="#repo-content-pjax-container" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -841,7 +843,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/dzmanto/GottesdiensteZug/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /dzmanto/GottesdiensteZug/issues" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/dzmanto/foehnix/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /dzmanto/foehnix/issues" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -853,7 +855,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/dzmanto/GottesdiensteZug/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /dzmanto/GottesdiensteZug/pulls" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/dzmanto/foehnix/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /dzmanto/foehnix/pulls" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
@@ -865,7 +867,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/dzmanto/GottesdiensteZug/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /dzmanto/GottesdiensteZug/actions" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/dzmanto/foehnix/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /dzmanto/foehnix/actions" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -877,7 +879,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/dzmanto/GottesdiensteZug/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /dzmanto/GottesdiensteZug/projects" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/dzmanto/foehnix/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /dzmanto/foehnix/projects" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
@@ -889,7 +891,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="wiki-tab" href="/dzmanto/GottesdiensteZug/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /dzmanto/GottesdiensteZug/wiki" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/dzmanto/foehnix/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /dzmanto/foehnix/wiki" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
@@ -901,18 +903,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/dzmanto/GottesdiensteZug/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /dzmanto/GottesdiensteZug/security" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/dzmanto/foehnix/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /dzmanto/foehnix/security" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
           <span data-content="Security">Security</span>
-            <include-fragment src="/dzmanto/GottesdiensteZug/security/overall-count" accept="text/fragment+html"></include-fragment>
+            <include-fragment src="/dzmanto/foehnix/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/dzmanto/GottesdiensteZug/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /dzmanto/GottesdiensteZug/pulse" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/dzmanto/foehnix/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /dzmanto/foehnix/pulse" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
@@ -936,35 +938,35 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /dzmanto/GottesdiensteZug" href="/dzmanto/GottesdiensteZug">
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /dzmanto/foehnix" href="/dzmanto/foehnix">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /dzmanto/GottesdiensteZug/issues" href="/dzmanto/GottesdiensteZug/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /dzmanto/foehnix/issues" href="/dzmanto/foehnix/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /dzmanto/GottesdiensteZug/pulls" href="/dzmanto/GottesdiensteZug/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /dzmanto/foehnix/pulls" href="/dzmanto/foehnix/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /dzmanto/GottesdiensteZug/actions" href="/dzmanto/GottesdiensteZug/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /dzmanto/foehnix/actions" href="/dzmanto/foehnix/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /dzmanto/GottesdiensteZug/projects" href="/dzmanto/GottesdiensteZug/projects">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /dzmanto/foehnix/projects" href="/dzmanto/foehnix/projects">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /dzmanto/GottesdiensteZug/wiki" href="/dzmanto/GottesdiensteZug/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /dzmanto/foehnix/wiki" href="/dzmanto/foehnix/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /dzmanto/GottesdiensteZug/security" href="/dzmanto/GottesdiensteZug/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /dzmanto/foehnix/security" href="/dzmanto/foehnix/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /dzmanto/GottesdiensteZug/pulse" href="/dzmanto/GottesdiensteZug/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /dzmanto/foehnix/pulse" href="/dzmanto/foehnix/pulse">
                     Insights
 </a>                </li>
             </ul>
@@ -990,7 +992,7 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/dzmanto/GottesdiensteZug/blob/79979d4db8afbcdb846daf23acdbb9a867713a1c/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/dzmanto/foehnix/blob/6097d789a21ebabcbc376cf80bb32744e4942a9e/README.md">Permalink</a>
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1002,7 +1004,7 @@
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>main</span>
+      <span class="css-truncate-target" data-menu-button>master</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -1046,12 +1048,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/dzmanto/GottesdiensteZug/refs"
+            query-endpoint="/dzmanto/foehnix/refs"
             
-            cache-key="v0:1636825736.19153"
-            current-committish="bWFpbg=="
-            default-branch="bWFpbg=="
-            name-with-owner="ZHptYW50by9Hb3R0ZXNkaWVuc3RlWnVn"
+            cache-key="v0:1627212596.745203"
+            current-committish="bWFzdGVy"
+            default-branch="bWFzdGVy"
+            name-with-owner="ZHptYW50by9mb2Vobml4"
             prefetch-on-mouseover
           >
 
@@ -1078,7 +1080,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/dzmanto/GottesdiensteZug/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/dzmanto/foehnix/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1088,7 +1090,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/dzmanto/GottesdiensteZug/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/dzmanto/foehnix/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -1102,11 +1104,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/dzmanto/GottesdiensteZug/refs"
-            cache-key="v0:1636825736.19153"
-            current-committish="bWFpbg=="
-            default-branch="bWFpbg=="
-            name-with-owner="ZHptYW50by9Hb3R0ZXNkaWVuc3RlWnVn"
+            query-endpoint="/dzmanto/foehnix/refs"
+            cache-key="v0:1627212596.745203"
+            current-committish="bWFzdGVy"
+            default-branch="bWFzdGVy"
+            name-with-owner="ZHptYW50by9mb2Vobml4"
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -1118,7 +1120,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/dzmanto/GottesdiensteZug/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/dzmanto/foehnix/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1139,7 +1141,7 @@
 
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/dzmanto/GottesdiensteZug/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/dzmanto/foehnix/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -1152,9 +1154,9 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/dzmanto/GottesdiensteZug"><span>GottesdiensteZug</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/dzmanto/foehnix"><span>foehnix</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </h2>
-      <a href="/dzmanto/GottesdiensteZug/find/main"
+      <a href="/dzmanto/foehnix/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -1173,7 +1175,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:427728062,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="76e22ccf201e6e8f38926f409851662c2fb6d039cf6b66ea6c222482e3704155" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/dzmanto/GottesdiensteZug/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:39007576,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b654771889501cbcc7f105c2d5b6cce1137a5af3a09b3c992eb0a6ad2a569f2e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/dzmanto/foehnix/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>            </li>
@@ -1197,7 +1199,7 @@
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/dzmanto/GottesdiensteZug/blob/79979d4db8afbcdb846daf23acdbb9a867713a1c/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/dzmanto/foehnix/blob/6097d789a21ebabcbc376cf80bb32744e4942a9e/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1212,7 +1214,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/dzmanto/GottesdiensteZug/contributors/main/README.md" class="commit-loader">
+      <include-fragment src="/dzmanto/foehnix/contributors/master/README.md" class="commit-loader">
         <div class="Box-header d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1242,21 +1244,21 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      2 lines (2 sloc)
+      27 lines (19 sloc)
       <span class="file-info-divider"></span>
-    69 Bytes
+    2.49 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-    <a href="/dzmanto/GottesdiensteZug/blob/main/README.md?plain=1" data-permalink-href="/dzmanto/GottesdiensteZug/blob/79979d4db8afbcdb846daf23acdbb9a867713a1c/README.md?plain=1" aria-label="Display the source blob" role="button" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">
+    <a href="/dzmanto/foehnix/blob/master/README.md?plain=1" data-permalink-href="/dzmanto/foehnix/blob/6097d789a21ebabcbc376cf80bb32744e4942a9e/README.md?plain=1" aria-label="Display the source blob" role="button" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
   
   
 
-</a>    <a href="/dzmanto/GottesdiensteZug/blob/main/README.md" data-permalink-href="/dzmanto/GottesdiensteZug/blob/79979d4db8afbcdb846daf23acdbb9a867713a1c/README.md" aria-label="Display the rendered blob" role="button" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">
+</a>    <a href="/dzmanto/foehnix/blob/master/README.md" data-permalink-href="/dzmanto/foehnix/blob/6097d789a21ebabcbc376cf80bb32744e4942a9e/README.md" aria-label="Display the rendered blob" role="button" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
 </svg>
@@ -1267,13 +1269,13 @@
 
 
     <div class="BtnGroup">
-      <a href="/dzmanto/GottesdiensteZug/raw/main/README.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/dzmanto/foehnix/raw/master/README.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/dzmanto/GottesdiensteZug/blame/main/README.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/dzmanto/foehnix/blame/master/README.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1293,13 +1295,13 @@
           </a>
 
         
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdzmanto%2FGottesdiensteZug%2Fblob%2Fmain%2FREADME.md" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdzmanto%2Ffoehnix%2Fblob%2Fmaster%2FREADME.md" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
           </a>
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdzmanto%2FGottesdiensteZug%2Fblob%2Fmain%2FREADME.md" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdzmanto%2Ffoehnix%2Fblob%2Fmaster%2FREADME.md" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
@@ -1326,14 +1328,14 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/dzmanto/GottesdiensteZug/raw/main/README.md">
+            <a class="dropdown-item" href="/dzmanto/foehnix/raw/master/README.md">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/dzmanto/GottesdiensteZug/blame/main/README.md">
+              <a class="dropdown-item" href="/dzmanto/foehnix/blame/master/README.md">
                 View blame
               </a>
             </li>
@@ -1345,8 +1347,23 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-gottesdienstezug" class="anchor" aria-hidden="true" href="#gottesdienstezug"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>GottesdiensteZug</h1>
-<p dir="auto">Android app für reformierte Gottesdienste in Zug</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-foehnix-paraglider-widget-for-android" class="anchor" aria-hidden="true" href="#foehnix-paraglider-widget-for-android"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Foehnix Paraglider Widget for Android</h1>
+<p dir="auto">Foehnix features</p>
+<ul dir="auto">
+<li>Assessment of Foehn conditions for pilots.</li>
+<li>Intended for paraglider and for hangglider pilots.</li>
+<li>Displays pressure differences + relevant wind gusts.</li>
+<li>Updates every 15 minutes or on request.</li>
+<li>Data sourced from MeteoSwiss.</li>
+<li>Permission is granted to distribute and / or sell Foehnix in app stores such as google apps.</li>
+</ul>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/557d74ad2194a7ef244de9cb85f851a76d1cc84164c7d6f4923481272c65b118/687474703a2f2f6563782e696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f39316474745a347730374c2e5f53593330305f2e706e67"><img src="https://camo.githubusercontent.com/557d74ad2194a7ef244de9cb85f851a76d1cc84164c7d6f4923481272c65b118/687474703a2f2f6563782e696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f39316474745a347730374c2e5f53593330305f2e706e67" alt="foehniximage" data-canonical-src="http://ecx.images-amazon.com/images/I/91dttZ4w07L._SY300_.png" style="max-width: 100%;"></a></p>
+<p dir="auto">The Foehnix weather widget for Android aims at helping pilots with weather conditions. Turbulence during flying due to Foehn conditions is known to be a serious issue for paraglider and for hangglider pilots flying in the Alps. Foehnix comes as a widget and displays pressure differences across the Alps between Lugano and Kloten. Pressure differences are updated every 15 minutes or upon request. An excessive negative pressure difference is likely to result in Foehn conditions on the South side of the Alps. Likewise, an excessive positive pressure difference is likely to result in Foehn conditions on the North side of the Alps.</p>
+<p dir="auto">The widget also displays maximum wind speeds in some valleys that are most likely to be affected by Foehn. Those measurements of current maximum wind in conjunction with the aforementioend pressure diferences allow for a more precise assessment of Foehn conditions. Should the pressure difference be positive in combination with strong Southerly winds in Altdorf, then those winds are probably caused by Foehn on the North side. By contrast, a negative pressure difference combined with strong Northerly winds in Locarno probably points to Foehn on the South side. These hints should, nonetheless, not be considered in isolation. Instead, they need to be matched to observations of local weather, to the geography and to the particulars of any particular flying site, to typical cloud shapes etc.</p>
+<p dir="auto">As from version 2.2, Foehnix also provides functionality to share weather conditions via text message, email etc.</p>
+<p dir="auto">Foehnix does not and is not meant to replace your judgement as a pilot! The author acknowledges MeteoSwiss for providing raw weather data. Always happy landing!</p>
+<p dir="auto"><a href="https://f-droid.org/packages/foehnix.widget/" rel="nofollow"><img src="https://camo.githubusercontent.com/fefd7089be3e793fb7858c5965f46e046d5bb78eac6d7f5bdd11f3e737b226a4/68747470733a2f2f662d64726f69642e6f72672f62616467652f6765742d69742d6f6e2e706e67" alt="Get it on F-Droid" height="80" data-canonical-src="https://f-droid.org/badge/get-it-on.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://www.amazon.com/Foehnix-Paragliding-App-for-Android/dp/B00ZPPLKJA" rel="nofollow"><img src="https://camo.githubusercontent.com/723c2a5895753cce7748907f3e762675fdb054ca4e40586ce04e7c0b88e555d8/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f472f30312f706e2d6d6c702f696d616765732f61707073746f7265732f616d617a6f6e5f33782e706e67" alt="Get it on Amazon" height="80" data-canonical-src="https://images-na.ssl-images-amazon.com/images/G/01/pn-mlp/images/appstores/amazon_3x.png" style="max-width: 100%;"></a></p>
 </article>
   </div>
 
@@ -1369,6 +1386,20 @@
 </form>    </details-dialog>
   </details>
 
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/dzmanto/foehnix/find-definition"
+     data-tagsearch-ref="master"
+     data-tagsearch-path="README.md"
+     data-tagsearch-lang="Markdown"
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:39007576,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}"
+     data-hydro-click-hmac="5129e1336344a09df4194a03e9bc90b386f4b7c99cd20c994d83a5f82981a4ad">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
+
 
 </div>
 
@@ -1387,10 +1418,10 @@
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-fg-muted border-top color-border-muted ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7a635f373a0474f1111e1f528d2cb5dc9fee67f94016fe382785c73bba05d132" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fe8db095e0f2adf5ae2d57a49b0d51ffe7c45b215e78632577a882584b2f2b04" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c70a39bc77e6070ec93101026d75eac92eb01b97ae8e0b89b72ad5c4967e1cb8" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="713f9b9310e987e87d348478f70e37f8ed4f8ddf85cb8489e6ba876e7c81c641" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b311a6a8055385bc0c1ffc62efbe76c2e9aa2631f035647728c76c9c006575fa" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="007a6e8421e6724b73d476f24883c4b8c42ccb493f7f9574512136894bf08b09" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f7998fee1dbe8ac537ddcb6e41fe5638d213b79bb59cfda9fad40ea4b5dc2e3d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9ae9a1898f2cbe76bcba7f8eba00e0b9858839a1bfb12fc449c2b5f2493ab11e" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -1400,11 +1431,11 @@
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="73caa5f3bb5c03448f84b881ea3c6c51e74e2b62009029c78137bb5282f4fbc2" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4874926e5f70bf4c0bde53e733ea37bf22c2ca5bb18378a66c71f65399e4abf3" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="171a8d2914664cac0bf4465555ee4d09cb7771281d666c37e1571a8fafc0d4d2" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="316eae0042ec27852d9db6f57095bfa12980dd35cb214a2721c8ddb05a495044" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/GottesdiensteZug/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e037aa3590dc65ed6e5977eff468dd2a04f2234e5a74c57fa974ce01bba7927a" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3efcb15bfafe06584b3588cd406f7d32b7f6b5448c0a67665a6da7ddc9fda054" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="66d880db22412e40abe4e21ff038dd1d3c9a7eca2e053da65a14e01e99d06afb" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ef959210418c5a11d0eca2413ef3e973c7840ad3c90b1606d46726b792447f0a" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d8d148c72817c1ff66d2c58fa2ddcbe192ff2807ff8cbe2d76dc76804a4118c7" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/dzmanto/foehnix/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f367ed69edf4eee4edb02029faf976412b6e8fecee30d65a70aab3890f5dbe27" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
