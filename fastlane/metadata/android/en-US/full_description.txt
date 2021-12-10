@@ -1,0 +1,5 @@
+The Android app is based on the homepage of the Reformed Church in Zug. A list of reformed church services in Zug is available on this homepage.
+
+The app collects information about church services on the cell phone and presents it clearly. The app focuses on the essentials, i.e. on the dates and locations of the services. Districts of the Reformed Church in Zug can be selected.
+
+The app is a private project. It was not developed in cooperation with the office that is responsible for the web design of the Reformed Church's homepage.
