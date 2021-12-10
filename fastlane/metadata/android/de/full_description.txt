@@ -1,0 +1,5 @@
+Diese Android-App basiert auf der Homepage der reformierten Kirche im Kanton Zug. Auf dieser Homepage ist eine Liste der reformierten Gottesdienste in Zug zu finden.
+
+Die App sammelt Informationen über Gottesdienste auf dem Handy und stellt sie übersichtlich dar. Die App konzentriert sich auf das Wesentliche, das heisst auf die Daten und Orte der Gottesdienste. Es können Bezirke der reformierten Kirche Zug ausgewählt werden.
+
+Die App ist ein privates Projekt. Sie wurde nicht in Zusammenarbeit mit der Firma  entwickelt, welche für das Webdesign der Homepage der reformierten Kirche verantwortlich ist.
