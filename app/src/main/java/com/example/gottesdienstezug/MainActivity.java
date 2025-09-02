@@ -24,6 +24,8 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 
+import com.example.gottesdienstezug.R;
+
 // TODO as of 1 November 2021: Simplify the loaded content
 
 public class MainActivity extends AppCompatActivity {
@@ -189,49 +191,56 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         unCheckAll();
-        switch (item.getItemId()) {
-            case R.id.Aegeri_item:
-                item.setChecked(true);
-                oldurl="";
-                url = "https://www.ref-zug.ch/aegeri/gottesdienste/";
-                webView.loadUrl(url);
-                return true;
-            case R.id.Baar_item:
-                item.setChecked(true);
-                oldurl="";
-                url = "https://www.ref-zug.ch/baar-neuheim/gottesdienste/";
-                webView.loadUrl(url);
-                return true;
-            case R.id.Cham_item:
-                item.setChecked(true);
-                oldurl="";
-                url = "https://www.ref-zug.ch/cham/gottesdienste/";
-                webView.loadUrl(url);
-                return true;
-            case R.id.Huenenberg_item:
-                item.setChecked(true);
-                oldurl="";
-                url = "https://www.ref-zug.ch/huenenberg/gottesdienste/";
-                webView.loadUrl(url);
-                return true;
-            case R.id.Rotkreuz_item:
-                item.setChecked(true);
-                oldurl="";
-                url = "https://www.ref-zug.ch/rotkreuz/gottesdienste/";
-                webView.loadUrl(url);
-                return true;
-            case R.id.Steinhausen_item:
-                item.setChecked(true);
-                oldurl="";
-                url = "https://www.ref-zug.ch/steinhausen/gottesdienste/";
-                webView.loadUrl(url);
-                return true;
-            case R.id.Zug_item:
-                item.setChecked(true);
-                oldurl="";
-                url = "https://www.ref-zug.ch/zug-menzingen-walchwil/gottesdienste/";
-                webView.loadUrl(url);
-                return true;
+        if(item.getItemId()==R.id.Aegeri_item) {
+            item.setChecked(true);
+            oldurl="";
+            url = "https://www.ref-zug.ch/aegeri/gottesdienste/";
+            webView.loadUrl(url);
+            return true;
+        }
+
+        if(item.getItemId()==R.id.Aegeri_item) {
+            item.setChecked(true);
+            oldurl="";
+            url = "https://www.ref-zug.ch/aegeri/gottesdienste/";
+            webView.loadUrl(url);
+            return true;
+        } else if(item.getItemId()==R.id.Baar_item) {
+            item.setChecked(true);
+            oldurl="";
+            url = "https://www.ref-zug.ch/baar-neuheim/gottesdienste/";
+            webView.loadUrl(url);
+            return true;
+        } else if(item.getItemId()==R.id.Cham_item) {
+            item.setChecked(true);
+            oldurl="";
+            url = "https://www.ref-zug.ch/cham/gottesdienste/";
+            webView.loadUrl(url);
+            return true;
+        } else if(item.getItemId()==R.id.Huenenberg_item) {
+            item.setChecked(true);
+            oldurl="";
+            url = "https://www.ref-zug.ch/huenenberg/gottesdienste/";
+            webView.loadUrl(url);
+            return true;
+        } else if(item.getItemId()==R.id.Rotkreuz_item) {
+            item.setChecked(true);
+            oldurl="";
+            url = "https://www.ref-zug.ch/rotkreuz/gottesdienste/";
+            webView.loadUrl(url);
+            return true;
+        } else if(item.getItemId()==R.id.Steinhausen_item) {
+            item.setChecked(true);
+            oldurl="";
+            url = "https://www.ref-zug.ch/steinhausen/gottesdienste/";
+            webView.loadUrl(url);
+            return true;
+        } else if(item.getItemId()==R.id.Zug_item) {
+            item.setChecked(true);
+            oldurl="";
+            url = "https://www.ref-zug.ch/zug-menzingen-walchwil/gottesdienste/";
+            webView.loadUrl(url);
+            return true;
         }
         return false;
     }
